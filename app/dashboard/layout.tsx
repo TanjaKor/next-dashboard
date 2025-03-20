@@ -1,5 +1,5 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
-// not working yet export const experimental_ppr = true;
+// testattu PPR:ä export const experimental_ppr = true;
  
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
